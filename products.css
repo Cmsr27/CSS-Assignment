@@ -1,0 +1,103 @@
+.grid-container {
+    
+    display: flex;
+    flex-direction: row;
+
+  }
+  .body{
+
+    background-image: url(https://cutewallpaper.org/21/background-pattern-css/css3-background-patterns-css-light-live-background-people-.jpg);
+  }
+  .mid-title{
+
+    
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.main{
+margin: 20px;
+}
+.product{
+    margin: 20px;
+
+}
+.about{
+    margin: 20px;
+
+
+}
+
+.maintittle{
+    background-image: url(https://blog.stackfindover.com/wp-content/uploads/2021/05/galaxy-background-animation.jpg);
+    text-align: center;
+    font-weight: 3000px;
+    color: aliceblue;
+    font-size: 50px;
+}
+    /* Here added Iphone phones and customized */
+.grid-item1{ 
+     
+        column-gap: 50px;
+      
+    }
+    .img1{
+       
+       border-radius: 5px;
+        border: 3px solid rgb(32, 26, 26);
+        padding: 1px;
+        width: 350px;
+    }
+
+      #pro13{
+
+        text-align: center;
+        font-size: 20px;
+    
+    }
+
+      .img2{
+        
+        margin-left: 200px;  
+        border: 2px solid red;
+        border-radius: 5px;
+         border: 3px solid rgb(32, 26, 26);
+         padding: 1px;
+         width: 343px;
+        
+      }
+
+
+    #pro12 {
+        text-align: center;
+        font-size: 20px;
+        margin-left: 200px;  
+
+    }
+
+     .img3{
+        margin-left: 200px;  
+
+        border-radius: 5px;
+         border: 3px solid rgb(32, 26, 26);
+         padding: 1px;
+         width: 343px;
+
+    }
+    #pro11{
+        margin-left: 200px;  
+
+        text-align: center;
+        font-size: 20px;
+
+    }
+.iphone{
+    font-size: 40px;
+    color: azure;
+    background-image: url(https://t4.ftcdn.net/jpg/01/16/88/37/360_F_116883786_wuckft1sNw1ouQfJ6FuquZnxea3qBlxy.jpg);
+}
+/* Here added Samsung phones and customized */
+

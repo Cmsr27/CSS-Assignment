@@ -1,0 +1,133 @@
+
+.body{
+
+ background-color: rgb(188, 178, 178);
+ background-image: url(https://cutewallpaper.org/21/background-pattern-css/css3-background-patterns-css-light-live-background-people-.jpg);
+}
+.title{
+/* Tittle added and customized*/
+color: rgb(241, 239, 239);
+text-align: center;
+font-size: 70px;
+position: relative;
+left: 1px;
+border: 1px solid #161715;
+background-image: url(https://blog.stackfindover.com/wp-content/uploads/2021/05/galaxy-background-animation.jpg);
+
+background-color: #cccccc;
+}
+
+.mid-title{
+
+    font-size: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+  
+    
+}
+.main{
+margin: 20px;
+
+}
+.product{
+    margin: 20px;
+
+}
+.about{
+    margin: 20px;
+
+
+}
+.landing{
+    font-size: 24px;
+    text-decoration: underline;
+
+   
+}
+.main-title{
+    font-size: 35px;
+    padding-inline-start: 200px;
+    color: rgba(12, 22, 62, 0.688);
+    text-decoration: underline;
+}
+
+.brand{
+    color: rgb(241, 239, 239);
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    left: 1px;
+    border: 1px solid #161715;
+    background-image: url(https://blog.stackfindover.com/wp-content/uploads/2021/05/galaxy-background-animation.jpg);
+
+    background-color: #cccccc;
+    
+    
+}
+.img1{
+   
+        border-radius: 90px;
+        border: 3px solid #ddd;
+        padding: 10px;
+        width: 350px;
+       
+}
+.img2{
+    border-radius: 90px;
+    border: 3px solid #ddd;
+    padding: 10px;
+    width: 350px;
+
+}
+.img3{
+    border-radius: 90px;
+    border: 3px solid #ddd;
+    padding: 10px;
+    width: 350px;
+
+}
+.img4{
+    border-radius: 90px;
+    border: 3px solid #ddd;
+    padding: 10px;
+    width: 350px;
+
+
+}
+#iphone{
+color: black;
+font-size: 25PX;
+padding:2px;
+margin: 12px;
+text-align: center;
+}
+
+#samsung{
+    color: black;
+font-size: 25PX;
+margin:12px;
+text-align: center;
+
+}
+#xiaomi{
+    color: black;
+    font-size: 25px;
+    margin:12px;
+    text-align: center;
+    
+}
+#huawei{
+    color: black;
+    font-size: 25px;
+    margin:12px;
+    text-align: center;
+
+}
+
+.bodybar{
+    
+    display: flex;
+    flex-direction: row;
+    }
+

@@ -1,0 +1,34 @@
+.body{
+    background-image: url(https://cutewallpaper.org/21/background-pattern-css/css3-background-patterns-css-light-live-background-people-.jpg);
+
+}
+
+.mid-title{
+
+    
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+
+    
+}
+.main{
+    margin: 3px;
+    
+    }
+    .product{
+        margin: 3px;
+        padding-left: 50px;
+
+    }
+    .about{
+        margin: 3px;
+        padding-left: 50px;
+
+    
+    
+}
+.img{
+    width: 500px;
+}
